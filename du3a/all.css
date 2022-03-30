@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+#quran{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 17px;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.123);
+    padding: 15px 0px;
+    background-color: rgba(0, 0, 0, 0.329);
+    width: 94%;
+    border-radius: 5px;
+    font-family: 'Cairo', sans-serif;
+    margin: 20px auto;
+    transition: 0.5s;
+}
+#quran:hover{
+    background-color: rgb(53, 53, 53);
+    transition: 0.15s;
+}
+a{
+    text-decoration: none;
+}
+
+#islam-slide{
+    text-align: left;
+    color: rgb(0, 177, 168);
+    font-family: 'Lobster', cursive;
+    padding: 15px 25px;
+    background-color: rgba(0, 0, 0, 0.089);
+    font-size: 99%;
+    transition: 0.8s;
+}
+
+#islam{
+    display: inline-block;
+}
+#islam-ar{
+    display: inline-block;
+    font-family: 'Cairo', sans-serif;
+    margin-right: 20px;
+    color: rgba(36, 36, 36, 0.678);
+    transition: 1s;
+}
