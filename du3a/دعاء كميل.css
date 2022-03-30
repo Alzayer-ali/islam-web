@@ -22,9 +22,9 @@ body{
 p{
     margin-top: 40px;
     font-size: 40px;
-    text-align: right;
-    padding-left: 30px;
-    padding-right: 30px;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
     text-align-last: right;
     color: rgb(0, 0, 0);
 }
