@@ -3,7 +3,7 @@
  padding: 0;   
 }
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: #282E3D;
     color: black;
     font-family: 'Cairo', sans-serif;
 }
@@ -22,21 +22,22 @@ body{
 }
 
 p{
-    color: rgb(0, 0, 0);
-    font-size: 190%;
+    color: #7B8EBD;
+    font-size: 160%;
     line-height: 40px;
     text-align: center;
     /* text-align-last: center; */
     margin: 10px auto;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Cairo', sans-serif;
     padding: 0 40px;
     font-weight: 500;
-    
+    font-family: 'Tajawal', sans-serif;
+
 }
 
 #fashel{
     width: 99%;
-    color: rgb(56, 142, 255);
+    color: rgb(198, 198, 198);
     text-align: center;
     /* border-bottom: 3px solid rgb(0, 177, 168); */
     margin-bottom: 0px;
@@ -55,18 +56,19 @@ p{
 } */
 
 #basmalah{
-    color: rgb(0, 0, 0);
+    color: #7bafbd;
     text-align: center;
     margin-bottom: 0px;
     border-top: 4px solid rgb(0, 177, 168);
     margin: 0px auto;
     width: 95%;
+    padding-top: 20px ;
 }
 
 #islam-slide{
     text-align: left;
-    color: rgb(0, 177, 168);
-    font-family: 'Lobster', cursive;
+    color: #7bafbd;
+    /* font-family: 'Lobster', cursive; */
     padding: 15px 25px;
     background-color: rgba(0, 0, 0, 0.089);
     font-size: 99%;
@@ -78,6 +80,6 @@ p{
 #islam-ar{
     display: inline-block;
     font-family: 'Cairo', sans-serif;
-    margin-right: 20px;
-    color: rgba(36, 36, 36, 0.678);
+    margin-right: 10px;
+    color: #7B8EBD;
 }
