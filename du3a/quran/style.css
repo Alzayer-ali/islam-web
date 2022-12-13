@@ -31,7 +31,11 @@ p{
     font-family: 'Cairo', sans-serif;
     padding: 0 40px;
     font-weight: 500;
-    font-family: 'Tajawal', sans-serif;
+    /* font-family: 'Tajawal', sans-serif; */
+    text-align: justify;
+    text-align-last: right;
+    direction: rtl;
+
 
 }
 
