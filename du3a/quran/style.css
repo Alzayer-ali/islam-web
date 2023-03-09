@@ -26,17 +26,13 @@ p{
     font-size: 160%;
     line-height: 40px;
     text-align: center;
-    /* text-align-last: center; */
     margin: 10px auto;
-    font-family: 'Cairo', sans-serif;
     padding: 0 40px;
     font-weight: 500;
-    /* font-family: 'Tajawal', sans-serif; */
     text-align: justify;
     text-align-last: right;
     direction: rtl;
-
-
+    font-family: 'arial';
 }
 
 #fashel{
